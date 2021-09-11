@@ -1,0 +1,8 @@
+{
+  "Woops! Something went wrong.":"サーバーで何か問題が発生しました。",
+  "Name" : "名前",
+  "Email" : "メールアドレス",
+  "Password" : "パスワード",
+  "Confirm Password":"パスワードをもう一度入力",
+  "Register" : "登録"
+}

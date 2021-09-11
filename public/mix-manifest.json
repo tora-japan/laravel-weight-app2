@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/jquery/jquery.js": "/jquery/jquery.js",
+    "/jquery/jquery.min.js": "/jquery/jquery.min.js",
+    "/jquery/jquery.min.map": "/jquery/jquery.min.map",
+    "/jquery/jquery.slim.js": "/jquery/jquery.slim.js",
+    "/jquery/jquery.slim.min.js": "/jquery/jquery.slim.min.js",
+    "/jquery/jquery.slim.min.map": "/jquery/jquery.slim.min.map",
+    "/chartjs/chart.esm.js": "/chartjs/chart.esm.js",
+    "/chartjs/chart.js": "/chartjs/chart.js",
+    "/chartjs/chart.min.js": "/chartjs/chart.min.js",
+    "/chartjs/helpers.esm.js": "/chartjs/helpers.esm.js",
+    "/js-cookie/js.cookie.js": "/js-cookie/js.cookie.js",
+    "/js-cookie/js.cookie.min.js": "/js-cookie/js.cookie.min.js",
+    "/js-cookie/js.cookie.min.mjs": "/js-cookie/js.cookie.min.mjs",
+    "/js-cookie/js.cookie.mjs": "/js-cookie/js.cookie.mjs"
+}

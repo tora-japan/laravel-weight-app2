@@ -1,0 +1,47 @@
+/*
+ * my_dlg.css
+ *
+ * Copyright (c) 2021 tora-japan (s.noda)
+ *
+ * Released under the MIT license.
+ * see https://opensource.org/licenses/MIT
+ *
+ */
+
+/* my_dlg.jsで使うダイアログ用のCSS */
+#dlg_bg {
+  display:none;
+  width:100%;
+  height:130%;
+  background-color: rgba(0,0,0,0.5);
+  position:fixed;
+  top:0;
+  left:0;
+  z-index: 1;
+}
+#dlg_main {
+  display: none;
+  position:fixed;
+  z-index: 2;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius:10px;
+}
+.dlg_title{
+  border-radius:10px 10px 0px 0px;
+  background-color: #0d6efd;
+  color: #FFFFFF;
+  padding: 0.5em;
+}
+.dlg_body{
+  padding: 1em;
+}
+.dlg_foot{
+  padding: 0.5em;
+  float: right;
+}
+
+.dlg_ok{
+}
+.dlg_cancel{
+}
