@@ -22,15 +22,10 @@ laravelで作成された、「毎日体重を記録をしよう」というWeb�
 
 ・認証システムを、Laravel JetstreamからLaravel Breezeに変更しました。
 
-（OS環境によって何故かLaravel Jetstreamが構築できないため）
-
 ・いくつかのバグ修正
-
-
 
 ### tora-japanが作成したソースファイル
 ./weight_src/にあります。
-
 
 
 ### インストールにあたっての前提条件
@@ -61,7 +56,7 @@ gitクローンを作成するか、zipを解凍してください。
 次の例は、mysqlでデーターベース名 laravel_weight を作るコマンドです
 CREATE DATABASE laravel_weight CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
-xampp環境で実行しやすように、envの初期値は、データーベース名 laravel_weight　rootでのログイン、パスワードはなしで設定しています。
+envの初期値は、データーベース名 laravel_weight rootでのログイン、パスワードはなしで設定しています。
 - DB_CONNECTION=mysql
 - DB_HOST=127.0.0.1
 - DB_PORT=3306
@@ -92,7 +87,6 @@ weight_srcをlaravel環境にコピーするため、下記のコマンドを実
 - php artisan serve
 
 ※apacheなどのwebサーバーを使う場合は、実行権限の設定をする必要があります。
-
 
 ### ライセンス
 
