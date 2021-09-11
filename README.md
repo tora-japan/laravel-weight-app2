@@ -116,6 +116,8 @@ laravelインストール時に自動で入るライブラリーなど、下記�
 
 [Laravel-honeypot](https://github.com/spatie/laravel-honeypot "laravel-honeypot")
 
+[barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar "barryvdh/laravel-debugbar")
+
 [Livewire](https://laravel-livewire.com/ "livewire")
 
 [Carbon](https://carbon.nesbot.com/ "Carbon")
