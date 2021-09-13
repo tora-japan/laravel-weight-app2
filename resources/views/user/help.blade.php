@@ -28,32 +28,32 @@
 
 <p class="mt-4">詳しくは<a href="https://www.e-healthnet.mhlw.go.jp/information/dictionary/metabolic/ym-002.html" class="text-red-600 underline">こちら(厚生労働省)</a>を参照してください。</p>
 
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 
 <b>グラフについて</b><br>
 <p>体重を毎日記録していくことで、体重のグラフとBMIのグラフを表示します。</p>
 <p>記録の空白ができた場所は、前日などの過去の記録の値を参照してグラフが表示されます。</p>
 <p>記録はその月の６カ月前まで記録されます。</p>
 <p>それ以前は破棄されます。</p>
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 <p><b>週の記録について</b></p>
 カレンダーの週をタップすると日曜日から土曜日までのグラフが表示されます
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 <p><b>月間の記録について</b></p>
 <p>カレンダーの日付を２度タップするとダイアログが開き、日付に対する体重の値を修正できます。</p>
 <img src="img/monthly1.png" class="mt-4">
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 <p><b>作者 tora</b></p>
 <p>discord tora#3327</p>
 
 <p><a class="text-red-600 underline" href="https://github.com/tora-japan" >git-hub id tora-japan</a></p>
 <p><a class="text-red-600 underline" href="https://github.com/tora-japan/laravel-weight-app2" >ソースコード（git-hub）</a></p>
 
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 
 <p><b>イラスト素材</b></p>
 <p><a class="text-red-600 underline" href="https://www.irasutoya.com/">イラスト屋</a></p>
-<hr class="my-4 border-2 border-gray-800">
+<hr class="my-4 border-dashed border-2 border-gray-800">
 
 <p><b>ライブラリー/フレームワーク/ライセンス</b></p>
 <p><a class="text-red-600 underline" href="http://laravel.jp/">Laravel8</a></p>
